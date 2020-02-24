@@ -9,7 +9,8 @@ Pour installer et lancer notre projet, veuillez suivre les instructions présent
 
 ## Prérequis
 
-Pour assurer le bon fonctionnement du projet vous devez posséder les outils suivants avec les versions précisées de préférence :
+Pour assurer le bon fonctionnement du projet vous devez posséder les outils suivants avec, de préférence, les versions précisées:
+ - Java 11 et Java SDK 1.8
  - MongoDB (4.2.1)
  - Maven (3.6.2)
  - NodeJS (12.13.1)
